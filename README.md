@@ -1,16 +1,48 @@
-## Hi there 👋
+# 陳柏佑 YOZU
+```
+我畢業於文化大學多媒體設計。
+系上四年的多媒體課程涵蓋了不同領域，讓我有機會多方嘗試，
+並逐漸發現自己對於網頁開發非常感興趣。在畢業前，我加入了亞星通公司，
+主要負責撰寫大量的一頁式活動頁面，這段經歷也讓我開始了解網站開發的實務操作。
 
-<!--
-**yozuwork/yozuwork** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+之後，我加入了一家成立僅一年的公司奈特米科技，這是一家承接專案的公司。
+由於公司規模較小，因此我必須同時負責前端與後端開發。在這家公司，
+我真正開始了全面的網站開發工作，從與設計師溝通，到切版與製作所需的素材
+，特別是第一次負責多頁式網站設計，並利用 PHP 進行前後端整合開發，
+同時也首次接觸後端與資料庫操作。
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+在這裡，我學習到了 Git 的協作流程、Vite 的打包流程以及資料表的命名方式。
+我也熟悉了 SCSS 的使用，並且利用 Bootstrap 的格線系統來管理網頁的樣式，
+這些技術讓我的網頁設計更具系統性與彈性。與之前在亞星通的經驗不同，
+這次負責的是多頁式網站，讓我深入了解了多頁式網站開發流程與資料庫應用。
+
+```
+# 我所知道和使用的
+```
+前端開發-Front End
+切版與設計稿還原
+
+具備獨立還原設計師提供的 UI 設計稿為實體網站的能力
+常用切版工具：Figma、Photoshop
+可手刻 HTML/CSS，或使用 Bootstrap 的格線系統建構網站結構與樣式
+網站結構與樣式管理
+
+使用 SCSS 依據頁面區塊進行拆分管理
+常用內容模組化處理，提高代碼重用性
+熟悉 RWD 設計，靈活運用 Bootstrap 格線系統與斷點設計
+可獨立手刻，根據需求進行斷點調整與布局適配
+JavaScript 與動態效果
+
+熟悉 JavaScript ES5、ES6+，具備 DOM 操作與事件處理能力
+能夠進行後端 API 抓取，處理資料動態顯示
+動態效果：除使用 JavaScript 和 CSS 處理基礎效果，經常使用插件來完成複雜的動態需求（如 Swiper.js、AOS.js、Bootstrap）
+框架運用
+
+擅長使用 Vue.js 框架
+熟悉 Vite、Vue Router、Vue CLI
+
+
+
+```
